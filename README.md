@@ -15,10 +15,11 @@
 </p>
 
 <div align="center">  
-<a href="[www.instagram.com/Gabriel_Dutra](https://www.instagram.com)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.instagram.com/gabriel_dutra/" alt="Instagram" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </p> 
 </div>
-  
-
 ### Main skills:
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
