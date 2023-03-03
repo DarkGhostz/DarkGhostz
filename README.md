@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-    <a href="https://www.instagram.com/gabriel_dutra/" alt="Instagram" target="_blank">
+    <a href="https://www.instagram.com/gabriel_dutra/" target="_blank" alt="Instagram" >
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
   </p> 
